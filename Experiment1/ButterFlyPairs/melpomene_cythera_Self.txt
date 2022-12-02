@@ -1,0 +1,3 @@
+ButterFly/train/melpomene_cythera/10428063_D_lowres.png ButterFly/train/melpomene_cythera/10428063_D_lowres.png
+ButterFly/train/melpomene_cythera/10428068_D_lowres.png ButterFly/train/melpomene_cythera/10428068_D_lowres.png
+ButterFly/train/melpomene_cythera/10428063_D_lowres.png ButterFly/train/melpomene_cythera/10428068_D_lowres.png
